@@ -20,6 +20,8 @@ User view:
 - [Configuration](#configuration)
   - [Pre-Requisites](#pre-requisites)
   - [Config File](#wrench-config-file)
+- [Commands](#commands)
+- [Features](#features)
 - [To do](#nut_and_bolt-to-do)
 - [FAQ](#question-faq)
 
@@ -63,6 +65,20 @@ Then create 3 mandatory channels that you need to specify in the [config file](#
 | `autoDM` | `1` | If yes (1) or no (0), the bot will add a new channel when a completely new DM is recieved.
 | `configChannelID` | `225367516356788704` | Your dedicated Discord server Config channel ID.
 | `setup` | `0` | whether if you choose to configure the program by yourself or the program will ask you requiered infos while startup.
+
+##  Commands
+In the `Config channel` that you created and specified in `config.json`.
+ - `dm [Discord username*]` : Create a new channel of the specified user DM (don't use user ID).
+ - `channel` : List all guilds/server the bot is in.
+ - `channel [guild]` : List all Channels in the specified guild.
+ - `channel [guild] [channel]` : Create a new channel of the specified guild channel.
+
+> *Discord username = exemple: `monke#1234`, Space needs to be escaped by `^`, (`monke^lol#1234`)
+
+##  Features
+ - User Status in DM shown by an emoji 🟢/🟠/🔴 (update every 2 minutes).
+ - Support Emoji, Images, Gif
+
 
 ##  :nut_and_bolt: To do
 - Add more languages
