@@ -72,4 +72,4 @@ Then create 3 mandatory channels that you need to specify in the [config file](#
 - Add audio support
 
 ## :question: FAQ
-Discord? : Yes `Dalvi#3682`, maybe I'll do a Discord server
+Discord? : Yes `Dalvi#3682`, maybe I'll do a Discord server 
