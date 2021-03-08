@@ -6,5 +6,5 @@
   "DMcatID": "Your dedicated Discord server DM category",
   "autoDM": 1,
   "configChannelID": "Your dedicated Discord server Config channel ID",
-  "setup": 1
+  "setup": 0
 }
