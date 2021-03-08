@@ -1,0 +1,10 @@
+{
+  "lang": "FR",
+  "token": "Your Bot Token",
+  "serverID": "Your dedicated Discord server ID",
+  "ServerCatID": "Your dedicated Discord server Channels category",
+  "DMcatID": "Your dedicated Discord server DM category",
+  "autoDM": 1,
+  "configChannelID": "Your dedicated Discord server Config channel ID",
+  "setup": 1
+}

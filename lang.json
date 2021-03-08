@@ -1,0 +1,44 @@
+{
+    "lang_ask": "Your language/Votre language? [FR/EN] ",
+    "lang_FR": {
+        "lang_set": "Votre language à été mis à jour!",
+        "token_ask": "\nQuelle est le Token de votre Bot? ",
+        "token_set": "Votre Token est: ",
+        "serverID_ask": "\nQuelle est l'id de votre Serveur? (Le Bot doit déjà y être!) ",
+        "serverID_set": "L'ID de votre Serveur est: ",
+        "serverCategory_ask": "\nQuelle est l'ID de la catégorie \"Serveurs\" de votre serveur Discord? ",
+        "serverCategory_set": "L'ID de la catégorie  \"Serveurs\" de votre serveur Discord est: ",
+        "DMcategory_ask": "\nQuelle est l'ID de la catégorie \"DM\" de votre serveur Discord? ",
+        "DMcategory_set": "L'ID de la catégorie  \"DM\" de votre serveur Discord est: ",
+        "settingsChannel_ask": "\nQuelle est l'ID du Channel de paramétrage? ",
+        "settingsChannel_set": "l'ID du Channel de paramétrage est: ",
+        "autoDM_ask": "\nVoulez vous que chaque DM reçu par le Bot crée un nouveau Channel textuel? (Dans la catégorie \"DM\") [y/Y, n/N]",
+        "autoDM_set": "Le Bot créera un Channel textuel pour chaque DM reçu",
+        "channelCreated": "Channel crée: ",
+        "channelExisting": "Ce Channel existe déjà: ",
+        "channelNull": "Ce Channel n'existe pas",
+        "serversList": "Liste des Serveurs",
+        "autoDM_0_err": "(autoDM off) UN DM A ETE RECU "
+    },
+    "lang_EN": {
+        "lang_set": "Yout language has been set!",
+        "token_ask": "\nWhat is you Bot Token? ",
+        "token_set": "Your Token is: ",
+        "serverID_ask": "\nWhat is your Discord Server ID? (The bot needs to be in!) ",
+        "serverID_set": "Your Server ID is: ",
+        "serverCategory_ask": "\nWhat is the \"Servers\" category ID of your Discord server? ",
+        "serverCategory_set": "The ID of \"Servers\" category is: ",
+        "DMcategory_ask": "\nWhat is the \"PM\" category ID of your Discord server? ",
+        "DMcategory_set": "The ID of \"PM\" category is: ",
+        "settingsChannel_ask": "\nWhat is the settings Channel ID? ",
+        "settingsChannel_set": "The settings Channel ID is: ",
+        "autoDM_ask": "\nDo you what every received PM create a new text channel in \"PM\" category? [y/Y, n/N]",
+        "autoDM_set": "The Bot will create a text Channel for each PM received",
+        "channelCreated": "Channel created: ",
+        "channelExisting": "Channel already existing: ",
+        "channelNull": "This Channel don't exist",
+        "serversList": "Server list",
+        "autoDM_0_err": "(autoDM off) PM RECEIVED "
+    }
+
+}
