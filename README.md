@@ -88,5 +88,5 @@ In the `Config channel` that you created and specified in `config.json`.
 - Add audio support
 
 ## :question: FAQ
-Discord ? : Yes `Dalvi#3682`, maybe I'll do a Discord server
-Paypal ? : Yes [Here](https://www.paypal.com/paypalme/orhy)
+- Discord ? : Yes `Dalvi#3682`, maybe I'll do a Discord server
+- Paypal ? : Yes [Here](https://www.paypal.com/paypalme/orhy)
