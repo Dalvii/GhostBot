@@ -1,5 +1,5 @@
 # GhostBot
-A Discord.JS program to access your bot servers and DMs in a dedicated Discord server
+A Discord.JS program to access/redirect your bot servers and DMs in a dedicated Discord server
 
 Dedicated server view:
 
